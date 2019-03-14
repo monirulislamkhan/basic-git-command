@@ -1,0 +1,62 @@
+RewriteRule ^ajax_query\.html$ ajax_query.php [T=application/x-httpd-php]
+
+git confit --global user.name "monirulislamkhan"
+git confit --global user.email mr.monirulkhan@gmail.com
+
+
+Learn Git Part 1
+
+1. git init
+2. git add filename.extension || --a
+3. git status
+4. git commit -m "Message here"
+5. git remote add origin repoName
+6. git push origin master
+7. git clone repoName
+8. git pull origin master
+9. git remote -v
+
+Learn Git Part 2
+
+1. git branch
+2. git branch new_feature
+3. git checkout new_feature
+4. ls
+5. git checkout master
+6. git merge new_feature
+7. git branch -d new_feature
+9. clear
+
+Learn Git Part 3
+
+1. git log
+2. git log -p
+3. git log --oneline
+4. git log -2
+5. git log -i --grep="Remember text name"
+6. git log -i -g "Text in code"
+7. git log -- stat
+8. git log --author="monirulislamkhan"
+
+Learn Git Part 4
+
+1. git stash save "abcd"
+2. git stash list
+3. git stash apply {unique Id}
+4. git stash drop {unique Id}
+5. git stash clean
+6. git stash pop
+
+Learn Git Part 5
+
+1. git stash -p
+
+Learn Git Part 6
+
+1. git checkout -b (new branch Name)
+2. git cherry-pick 296e843c034aeeaf8a01f33777e021bd3ee7a34a 
+
+How to Solve Merge Conflict in Git/Github
+
+ 
+
