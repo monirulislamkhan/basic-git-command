@@ -1,7 +1,5 @@
-RewriteRule ^ajax_query\.html$ ajax_query.php [T=application/x-httpd-php]
-
-git confit --global user.name "monirulislamkhan"
-git confit --global user.email mr.monirulkhan@gmail.com
+git confit --global user.name "username"
+git confit --global user.email demo@gmail.com
 
 
 Learn Git Part 1
