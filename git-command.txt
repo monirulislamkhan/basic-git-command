@@ -54,7 +54,6 @@ Learn Git Part 6
 1. git checkout -b (new branch Name)
 2. git cherry-pick 296e843c034aeeaf8a01f33777e021bd3ee7a34a 
 
-How to Solve Merge Conflict in Git/Github
 
  
 
